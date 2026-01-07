@@ -8,7 +8,7 @@ export default function handler(req, res) {
   }
   
   res.json({
-    version: 25,
+    version: 15,
     name: "Triade OS",
     description: "<описание потом вставлю>",
     url: "https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/file"
